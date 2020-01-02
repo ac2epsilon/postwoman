@@ -36,8 +36,11 @@
         "yargs-parser": "^16.1.0"
     },
     "devDependencies": {
+        "@nuxt/typescript-build": "^0.5.4",
         "cypress": "^3.8.1",
         "node-sass": "^4.13.0",
+        "pug": "^2.0.4",
+        "pug-plain-loader": "^1.0.0",
         "sass-loader": "^8.0.0",
         "start-server-and-test": "^1.10.6"
     }
